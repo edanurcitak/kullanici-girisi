@@ -1,0 +1,12 @@
+C:\Users\batug\Desktop\Edanur-Çıtak\bin\Debug\Edanur-Çıtak.exe.config
+C:\Users\batug\Desktop\Edanur-Çıtak\bin\Debug\Edanur-Çıtak.exe
+C:\Users\batug\Desktop\Edanur-Çıtak\bin\Debug\Edanur-Çıtak.pdb
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur-Çıtak.csproj.AssemblyReference.cache
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur-Çıtak.csproj.SuggestedBindingRedirects.cache
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur_Çıtak.Form1.resources
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur_Çıtak.Form2.resources
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur_Çıtak.Properties.Resources.resources
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur-Çıtak.csproj.GenerateResource.cache
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur-Çıtak.csproj.CoreCompileInputs.cache
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur-Çıtak.exe
+C:\Users\batug\Desktop\Edanur-Çıtak\obj\Debug\Edanur-Çıtak.pdb
